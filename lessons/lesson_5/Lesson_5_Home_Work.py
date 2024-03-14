@@ -1,7 +1,7 @@
 # Beginner Python Homework: Introduction to Basics
 
 def print_hello_world():
-    """Task 1: Print 'Hello, World  !' to the console."""
+    """Task 1: Print  'Hello, World  !' to the console."""
     print('Hello world')
 
 def create_and_print_variables():
