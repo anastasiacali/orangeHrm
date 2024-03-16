@@ -57,6 +57,7 @@ def print_fruits(fruits):
     for fruit in fruits:
         print(fruit)
 
+
 def create_and_print_dictionary():
     """Task 8: Create a dictionary named `person` with keys 'name' and 'age', then print the dictionary."""
     person = {
